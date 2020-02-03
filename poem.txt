@@ -1,7 +1,3 @@
-this is my rainbow file and cats
-blue
-red 
-yellow
 green
 blue
 yellow
