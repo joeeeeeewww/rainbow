@@ -1,4 +1,4 @@
-this is my rainbow file
+this is my rainbow file and cats
 blue
 red 
 yellow
@@ -9,3 +9,4 @@ cow color
 purple
 animals
 end of my poem
+cats
