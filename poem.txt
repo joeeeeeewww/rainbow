@@ -4,6 +4,7 @@ red
 yellow
 green
 blue
+carabao
 yellow
 cow color
 purple
