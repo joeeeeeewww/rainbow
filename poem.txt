@@ -1,10 +1,12 @@
 this is my rainbow file
 blue
+
 red 
 yellow
 green
 blue
 yellow
 cow color
+purple
 animals
 end of my poem
